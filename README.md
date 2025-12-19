@@ -8,10 +8,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNkdG81NTJpYnRrem9idGw0M3hoczM0MjR2bGNpMXp5OWpuN2t0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <img src="assets/profile.jpg" width="200" style="border-radius: 50%;" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
