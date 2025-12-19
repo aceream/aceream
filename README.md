@@ -18,8 +18,7 @@ I enjoy turning complex problems into clean, functional, and user-friendly solut
 - 🎓 **Education:** Bachelor of Science in Information Technology  
 - 💡 **Focus:** Networking
 - 📍 **Location:** Masgad, Malimono, Surigao del Norte
-- 🎯 **Goal:** Becoome a network administrator 
-- 🎲 **Fun fact:** sleep very well😄  
+- 🎯 **Goal:** Become a network administrator  
 
 ---
 
@@ -62,7 +61,18 @@ I enjoy turning complex problems into clean, functional, and user-friendly solut
 </p>
 
 ---
-
 ## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/your.username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/your.username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
 
 📧 **Email:** acealbiba@gmail.com
