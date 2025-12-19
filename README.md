@@ -1,7 +1,9 @@
 <h1 align="center">Hey,👋  I'm Ma.Ereca Albiba</h1>
 
 <p align="center">
-  <img src="https://typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=BSIT+Student;Tech+Enthusiast;Web+Developer+in+Progress;UI%2FUX+Explorer" />
+
+![Typing SVG](https://typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=BSIT+Student;Tech+Enthusiast;Web+Developer;UI%2FUX+Explorer)
+
 </p>
 
 
