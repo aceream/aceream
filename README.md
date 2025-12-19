@@ -18,7 +18,7 @@ I enjoy turning complex problems into clean, functional, and user-friendly solut
 - 🎓 **Education:** Bachelor of Science in Information Technology  
 - 💡 **Focus:** Networking
 - 📍 **Location:** Masgad, Malimono, Surigao del Norte
-- 🎯 **Goal:** Become a skilled full-stack developer  
+- 🎯 **Goal:** Becoome a network administrator 
 - 🎲 **Fun fact:** sleep very well😄  
 
 ---
