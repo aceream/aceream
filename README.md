@@ -1,11 +1,7 @@
-<h1 align="center">Hey,👋  I'm Ma.Ereca Albiba</h1>
+<h1 align="center">Hi 👋 I'm Ma.Ereca Albiba</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;BSIT+Student;Web+Developer+in+Progress;UI%2FUX+Explorer" />
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNkdG81NTJpYnRrem9idGw0M3hoczM0MjR2bGNpMXp5OWpuN2t0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="450" />
 </p>
 
 <p align="center">
@@ -21,17 +17,17 @@ I enjoy turning complex problems into clean, functional, and user-friendly solut
 
 - 🎓 **Education:** Bachelor of Science in Information Technology  
 - 💡 **Focus:** Web Development & UI/UX  
-- 📍 **Location:** Masgad, Malimono, Surigao del Norte  
+- 📍 **Location:** Cubo Esperanza, Agusan Del Sur  
 - 🎯 **Goal:** Become a skilled full-stack developer  
-- 🎲 **Fun fact:** I sleep very well😄  
+- 🎲 **Fun fact:** sleep very well😄  
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaErecaAlbiba&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaErecaAlbiba&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JerveGuiral&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerveGuiral&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
