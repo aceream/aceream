@@ -16,8 +16,8 @@ I am a **Third-Year BSIT Student** at **Caraga State University (Cabadbaran Camp
 I enjoy turning complex problems into clean, functional, and user-friendly solutions.
 
 - 🎓 **Education:** Bachelor of Science in Information Technology  
-- 💡 **Focus:** Web Development & UI/UX  
-- 📍 **Location:** Cubo Esperanza, Agusan Del Sur  
+- 💡 **Focus:** Networking
+- 📍 **Location:** Masgad, Malimono, Surigao del Norte
 - 🎯 **Goal:** Become a skilled full-stack developer  
 - 🎲 **Fun fact:** sleep very well😄  
 
